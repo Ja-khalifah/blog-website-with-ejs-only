@@ -1,0 +1,2 @@
+This is a full simple blog website built from simply using ejs alongside some frameworks like mongoose and the rest, it is a straightforward website so have a look at it.
+Make sure to run npm install inorder to install the dependencies and make sure your mongodb server is listening for connection if you want to try it out with the database.
